@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class ArrayList {
+public class ArrayList<P> {
     public static void main(String[] args) {
         List<String> list =new java.util.ArrayList<>();
 
